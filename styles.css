@@ -3,18 +3,20 @@ html {
     color: #4e4d4d;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    background-color: #8d99ae;
 }
 
 main {
     max-width: 50rem;
     margin: 2rem auto;
-    background: linear-gradient(30deg, #3dc0c0, #5bceae);
+    background: linear-gradient(30deg, #2b2d42, #d80032);
     padding: 3rem 1.6rem 6rem;
     border-radius: 4rem;
     box-shadow: 0 2px 2px lightgray;
 }
 
 h1 {
+    color: white;
     text-align: center;
     font-size: 3rem;
     margin: 0;
@@ -74,7 +76,7 @@ input[type="number"] {
     background: lightgray;
     margin-top: 1.2rem;
     border-radius: 0.3rem;
-    outline-color: #5bceae;
+    outline-color: #8d99ae;
 }
 
 .range::-webkit-slider-thumb {
@@ -82,7 +84,7 @@ input[type="number"] {
     width: 2.2rem;
     height: 2.2rem;
     border-radius: 50%;
-    background: #3dc0c0;
+    background: #d80032;
     cursor: pointer;
 }
 
