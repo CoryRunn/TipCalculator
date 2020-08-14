@@ -7,4 +7,6 @@ For the JS: variables, functions, Math.ceil, if statement, and DOM manipulation 
 
 This was a super fun begineer project that I enjoyed doing :)
 
+LIVE SITE:  https://coryrunn.github.io/TipCalculator/
+
 
