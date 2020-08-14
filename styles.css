@@ -16,9 +16,10 @@ main {
 }
 
 h1 {
+    font-family: 'Shadows Into Light', cursive;
     color: white;
     text-align: center;
-    font-size: 3rem;
+    font-size: 5rem;
     margin: 0;
     padding-bottom: 3rem;
 }
