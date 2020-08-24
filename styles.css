@@ -12,7 +12,7 @@ main {
     background: linear-gradient(30deg, #2b2d42, #d80032);
     padding: 3rem 1.6rem 6rem;
     border-radius: 4rem;
-    box-shadow: 0 2px 2px lightgray;
+    box-shadow: 0 2px 5px black;
 }
 
 h1 {
