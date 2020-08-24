@@ -30,7 +30,7 @@ section {
     margin-bottom: 1.6rem;
     padding: 0 1.6rem;
     border-radius: 1rem;
-    box-shadow: inset 0 2px 2px lightgray;
+    box-shadow: inset 0 2px 5px black;
 }
 
 section > div {
